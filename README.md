@@ -101,3 +101,17 @@ StreamFlix-Streaming-Analytics/
 ## Skills demonstrated
 
 Data cleaning and validation · Relational data modeling · Power Query · DAX measures · KPI design · Power BI dashboards · Business insights · Data-quality documentation
+
+## Power BI Dashboard Preview
+
+### 01 — Executive Overview
+![Executive Overview](screenshots/01_Executive_Overview.png)
+
+### 02 — Subscriber Analysis
+![Subscriber Analysis](screenshots/02_Subscriber_Analysis.png)
+
+### 03 — Content Performance
+![Content Performance](screenshots/03_Content_Performance.png)
+
+### 04 — Customer Engagement
+![Customer Engagement](screenshots/04_Customer_Engagement.png)
