@@ -113,5 +113,12 @@ Data cleaning and validation · Relational data modeling · Power Query · DAX m
 ### 03 — Content Performance
 ![Content Performance](screenshots/03_Content_Performance.png)
 
+## Project Files
+
+- `StreamFlix_Analytics.pbix` — Power BI dashboard
+- `StreamFlix_Dashboard.pdf` — PDF dashboard export
+- `screenshots/` — Four dashboard screenshots
+- `README.md` — Project documentation
+
 ### 04 — Customer Engagement
 ![Customer Engagement](screenshots/04_Customer_Engagement.png)
